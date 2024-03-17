@@ -22,3 +22,5 @@ function second(){
     // console.log("this is the fourth new feature");
     // console.log("this is the fifth new feature");
 }
+
+console.log("this is testing");
