@@ -9,3 +9,10 @@ function newFeat(){
     console.log("this is the fourth new feature");
     console.log("this is the fifth new feature");
 }
+function second(){
+    console.log("this is the new feature")
+    console.log("this is the second new feature")
+    // console.log("this is the third new feature");
+    // console.log("this is the fourth new feature");
+    // console.log("this is the fifth new feature");
+}
