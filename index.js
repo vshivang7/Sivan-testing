@@ -24,3 +24,4 @@ function second(){
 }
 
 console.log("this is testing");
+console.log("this is second proxy testing");
